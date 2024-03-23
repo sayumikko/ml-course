@@ -17,3 +17,6 @@
 *.png
 *.jpeg
 *.mp4
+
+# Python
+venv
